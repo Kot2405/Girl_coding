@@ -1,10 +1,11 @@
-# Girl_coding
-<!DOCTYPE>
+<!DOCTYPE html>
 <html lang="en">
 <head> 
-	<h2>Делаем сайт</h2>
+	<meta charset="UTF-8" />
+	<title>Document 1</title>
 </head>
 <body>
-	<h1>Всем привет</h1>
+
+	<h1>Всем привет!</h1>
 </body>
 </html>
