@@ -1,9 +1,8 @@
 # Girl_coding
 <!DOCTYPE>
 <html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>Делаем сайт</title>
+<head> 
+	<h2>Делаем сайт</h2>
 </head>
 <body>
 	<h1>Всем привет</h1>
